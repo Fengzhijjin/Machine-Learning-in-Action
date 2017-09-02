@@ -1,4 +1,4 @@
-# Machine-learning-combat
+# Machine-Learning-in-Action
 机器学习实战代码注释
 
 推荐Python运行版本：2.7
